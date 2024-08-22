@@ -1,7 +1,7 @@
 # Dria Node
 # How to run Dria Node
 
-<img src="https://www.chasm.net/og.png](https://pbs.twimg.com/profile_banners/1741850179068678144/1723531251/1500x500" width="3500"/>
+<img src="https://raw.githubusercontent.com/mumeido/Dria-Node/main/Dria_3.png" width="3500"/>
 
 
 To learn more about Dria, you can go here and read about their Blog [here](https://dria.co/blog).
